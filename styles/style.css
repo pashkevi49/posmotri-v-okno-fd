@@ -245,12 +245,6 @@ ol {
   gap: 30px;
 }
 
-.content__list {
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
-}
-
 .content__list-item {
   padding: 0;
 }
