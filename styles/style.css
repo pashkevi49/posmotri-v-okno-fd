@@ -247,6 +247,7 @@ ol {
 
 .content__list-item {
   padding: 3px;
+  padding-block: 0;
 }
 
 .content__card-link {
